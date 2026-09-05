@@ -80,7 +80,7 @@ The following analyses were performed to understand the dataset:
 
 #### Correlation Heatmap
 
-![Correlation Heatmap](images/Correlation_Heatmap.png)
+![Correlation Heatmap](images/Correlation Heatmap.png)
 
 ---
 
@@ -144,11 +144,11 @@ The models were evaluated using the following regression metrics:
 
 | Metric | Model 1 | Model 2 |
 |---|---:|---:|
-| R² | To be updated | To be updated |
+| R² | 0.819252 | 0.812828 |
 | Adjusted R² | To be updated | To be updated |
 | MSE | To be updated | To be updated |
-| RMSE | To be updated | To be updated |
-| MAPE | To be updated | To be updated |
+| RMSE | 10148.919549 | 3820.237195 |
+| MAPE | 60.085007 | 0.222692 |
 
 ---
 
