@@ -76,11 +76,11 @@ The following analyses were performed to understand the dataset:
 
 #### Price Distribution
 
-![Price Distribution](images/price_distribution.png)
+![Price Distribution](images/Distribution of Car Prices.png)
 
 #### Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](images/Correlation_Heatmap.png)
 
 ---
 
