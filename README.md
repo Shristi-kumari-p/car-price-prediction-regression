@@ -154,7 +154,7 @@ The models were evaluated using the following regression metrics:
 
 The actual vs. predicted plot was used to visually evaluate how closely the model's predictions matched the actual car prices.
 
-![Actual vs Predicted](images/actual_vs_predicted.png)
+![Actual vs Predicted](images/Actual_vs_Predicted.png)
 
 A prediction closer to the diagonal reference line indicates better agreement between actual and predicted prices.
 
