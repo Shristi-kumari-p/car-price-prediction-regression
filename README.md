@@ -1,5 +1,3 @@
-# car-price-prediction-regression
-
 # 🚗 Car Price Prediction using Regression
 
 ## 📌 Project Overview
@@ -76,7 +74,7 @@ The following analyses were performed to understand the dataset:
 
 #### Price Distribution
 
-![Price Distribution](images/Distribution of Car Prices.png)
+![Price Distribution](D:\Downloads\Distribution of Car Prices.png)
 
 #### Correlation Heatmap
 
